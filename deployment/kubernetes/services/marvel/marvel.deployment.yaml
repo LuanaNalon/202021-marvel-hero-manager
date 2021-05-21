@@ -28,4 +28,5 @@ spec:
               value: 88aad6e6b942e9d1ec9e4d4cc67148f9
             - name: MARVEL_PRIVATE_KEY
               value: 5fba25e7456de3fa2850098de0632b671d0519cc
-        
+            - name: PORT
+              value: "8082"
